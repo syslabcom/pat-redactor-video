@@ -1,0 +1,4 @@
+redactor/
+node_modules/
+dist/
+.*.sw[op]

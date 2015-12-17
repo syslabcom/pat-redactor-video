@@ -1,0 +1,25 @@
+{
+  "name": "pat-redactor-video",
+  "version": "0.0.1",
+  "title": "Video plugin for pat-redactor",
+  "devDependencies": {
+    "bower": "latest",
+    "requirejs": "",
+    "gulp": "^3.5.5",
+    "gulp-concat": "^2.1.7",
+    "gulp-uglify": "^0.2.1",
+    "gulp-bower": "0.0.3",
+    "gulp-bower-files": "^0.1.11",
+    "streamqueue": "0.0.5",
+    "gulp-rename": "^1.2.0"
+  },
+  "homepage": "https://gitub.com/Patternslib/pat-redactor-video",
+  "maintainers": [
+    {
+      "name": "Manuel Reinhardt",
+      "email": "reinhardt@syslab.com",
+      "url": "http://syslab.com"
+    }
+  ]
+}
+
